@@ -1,5 +1,5 @@
 document.write('<link rel="stylesheet" href="assets/css/brandbar.css" type="text/css" media="screen, projection" />');
-document.write('<script type="text/javascript" src="html/js/brandbar.js" ></script>');
+document.write('<script type="text/javascript" src="assets/js/brandbar.js" ></script>');
 document.write('<!--[if IE 6]><div id="ie6"><![endif]-->');
 document.write('<div id="vunavigate"  style="display:none;">');
 document.write('<ul>');
@@ -40,7 +40,7 @@ document.write('<div class="vulogomini"><h1><a href="http://www.vanderbilt.edu">
 document.write('<div id="toolsvu">');
 document.write('<ul>');
 document.write('<li><a href="http://www.vanderbilt.edu">Vanderbilt Home</a></li>');
-document.write('<li><a href="http://sparql.vanderbilt.edu">SPARQL Home</a></li>');
+document.write('<li><a href="http://sparql.vanderbilt.edu">News Knowledge Home</a></li>');
 document.write('<li><a href="http://www.library.vanderbilt.edu/">Library</a></li>');  
 document.write('<li><a href="http://www.vanderbilt.edu/student/">Students</a></li>');
 document.write('<li><a href="http://www.vanderbilt.edu/faculty-staff/">Faculty &amp; Staff</a></li>');  
