@@ -1,4 +1,4 @@
-document.write('<link rel="stylesheet" href="html/css/brandbar.css" type="text/css" media="screen, projection" />');
+document.write('<link rel="stylesheet" href="assets/css/brandbar.css" type="text/css" media="screen, projection" />');
 document.write('<script type="text/javascript" src="html/js/brandbar.js" ></script>');
 document.write('<!--[if IE 6]><div id="ie6"><![endif]-->');
 document.write('<div id="vunavigate"  style="display:none;">');
