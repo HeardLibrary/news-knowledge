@@ -2,7 +2,7 @@
 Vanderbilt University Brand Bar Stylesheet [2010 University Web Communications] 
 ----------------------------------------------------------------------- */
 body { margin: 0; padding: 0; }
-#vubrandbar { height: 65px; background: #333 url('assets/img/headbg-ie6.jpg') repeat-x top left; margin: 0; border-bottom: 1px solid #000; font: normal normal 9pt/14pt Arial, Helvetica, sans-serif;}
+#vubrandbar { height: 65px; background: #333 url('..assets/img/headbg-ie6.jpg') repeat-x top left; margin: 0; border-bottom: 1px solid #000; font: normal normal 9pt/14pt Arial, Helvetica, sans-serif;}
 
 .vuinsider { width: 950px; margin: 0 auto; }
 #ie6 .vuinsider {text-align:left;} 
