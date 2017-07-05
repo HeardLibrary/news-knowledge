@@ -29,7 +29,7 @@ sass:
 future:             false
 
 # Comments
-disqus_shortname:   newsknowledge
+disqus_shortname:   newsknowledge-today
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -55,7 +55,7 @@ github:             heardlibrary/news-knowledge
 #steam:             username
 #dribbble:          username
 #youtube:           username
-soundcloud:         newsknowledge
+soundcloud:         user-587211058
 #weibo:             username
 #flickr:            username
 #codepen:           username
