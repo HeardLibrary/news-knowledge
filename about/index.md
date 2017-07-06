@@ -14,11 +14,12 @@ In short, we want to join in the ongoing conversations that focus on improving n
 
 ## Podcasters
 
-* Russ Mason, 
+* Russ Mason - Curator/Cataloger
+* Skip Pfeiffer - Editor/Abstractor
 
 ## Production
 
-<b>News Knowledge</b> is produced out of Vanderbilt University by the Office of the Associate Provost for Digital Learning, the Vanderbilt Center for Teaching, the Vanderbilt Institute for Digital Learning, and Office of Scholarly Communications at the Vanderbilt University Library.
+<b>News Knowledge</b> is produced out of the Television News Archive at Vanderbilt University by the Office of the Associate Provost for Digital Learning, the Vanderbilt Center for Teaching, the Vanderbilt Institute for Digital Learning, and Office of Scholarly Communications at the Vanderbilt University Library.
 
 ## Website Credits
 
