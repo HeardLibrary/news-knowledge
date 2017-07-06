@@ -40,7 +40,7 @@ document.write('<div class="vulogomini"><h1><a href="http://www.vanderbilt.edu">
 document.write('<div id="toolsvu">');
 document.write('<ul>');
 document.write('<li><a href="http://www.vanderbilt.edu">Vanderbilt Home</a></li>');
-document.write('<li><a href="http://sparql.vanderbilt.edu">News Knowledge Home</a></li>');
+document.write('<li><a href="http://www.newsknowledge.today">News Knowledge Home</a></li>');
 document.write('<li><a href="http://www.library.vanderbilt.edu/">Library</a></li>');  
 document.write('<li><a href="http://www.vanderbilt.edu/student/">Students</a></li>');
 document.write('<li><a href="http://www.vanderbilt.edu/faculty-staff/">Faculty &amp; Staff</a></li>');  
