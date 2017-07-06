@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Introducing the Knowledge News Podcast"
-date: 2016-08-01
-excerpt: "Introducing the Knowledge News Podcast"
+title: "Introducing the News Knowledge Podcast"
+date: 2017-07-01
+excerpt: "Introducing the News Knowledge Podcast"
 tags: [podcast, tvnews]
 comments: true
 ---
 
-Introducing the Knowledge News Podcast
+Introducing the News Knowledge Podcast
+
+We're very happy to announce the launch of News Knowledge, a podcast focusing on insights related to televised news media, produced here at Vanderbilt University.
