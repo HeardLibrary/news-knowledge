@@ -1,6 +1,6 @@
 # Site
 title:              News Knowledge
-bio:                'a podcast about TV News'
+bio:                'A podcast about TV News'
 description:        "A podcast about TV News"
 reading_time:       false
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/LLbg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://heardlibrary.github.io/news-knowledge
+url:                http://www.newsknowledge-today
 future:             true
 
 # Jekyll
@@ -71,7 +71,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: http://www.newsknowledge.today
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
