@@ -2,7 +2,7 @@ document.write(
   '<link rel="stylesheet" href="http://www.vanderbilt.edu/asset/css/brandbar.css?v=201304" type="text/css" media="screen, projection" />'
 );
 document.write(
-  '<link rel="stylesheet" href="assets/css/brandbar.css" type="text/css" media="screen, projection" />'
+  '<link rel="stylesheet" href="/assets/css/brandbar.css" type="text/css" media="screen, projection" />'
 );
 document.write(
   '<script type="text/javascript" src="http://www.vanderbilt.edu/asset/scripts/brandbar.js" ></script>'
