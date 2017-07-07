@@ -16,5 +16,7 @@ Since you're here, we also invite you to take advantage of your [statutory right
 Thanks for listening! And please let us know what you think.
 
 Clifford B. Anderson
+
 Associate University Librarian for Research and Learning
+
 Vanderbilt University Library
