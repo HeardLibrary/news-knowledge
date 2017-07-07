@@ -11,7 +11,7 @@ We're very happy to announce the launch of News Knowledge, a podcast focusing on
 
 In this podcast, two staff members of the Television News Archive, Russ Mason and Skip Pfeiffer, interview archivists, researchers, and social activists who depend on access to this fair, impartial, and objective record of broadcast television news. We hope that you, our listeners, enjoy listening to how news events in our nation's recent history have been shared and disemminated. We'll release new episodes every month.
 
-Since you're here, we also invite you to take advantage of your [statuory right](https://www.law.cornell.edu/uscode/text/17/108) to [explore and loan news segments](https://tvnews.vanderbilt.edu/requests) from our archive for a small fee. Of course, if you're ever in Nashville, you are always welcome to visit the Television News Archive in person. 
+Since you're here, we also invite you to take advantage of your [statutory right](https://www.law.cornell.edu/uscode/text/17/108) to [explore and loan news segments](https://tvnews.vanderbilt.edu/requests) from our archive for a small fee. Of course, if you're ever in Nashville, you are always welcome to visit the Television News Archive in person. 
 
 Thanks for listening! And please let us know what you think.
 
