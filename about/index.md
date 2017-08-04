@@ -14,6 +14,7 @@ In short, we want to join in the ongoing conversations that focus on improving n
 
 ## Podcasters
 
+* John Lynch - Former Director
 * Russ Mason - Curator/Cataloger
 * Skip Pfeiffer - Editor/Abstractor
 
