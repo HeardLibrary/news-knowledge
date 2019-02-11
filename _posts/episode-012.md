@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Episode 012: A Conversation with Morton Dean - Part Two"
+date:   2019-02-11
+excerpt: "This is the second of three episodes featuring former newsman Morton Dean, who discusses his recent documentary, American Medevac, as well as other interesting chapters in his decades-long career as a news reporter and anchor for CBS and NBC."
+episode: true
+tag:
+- TV News Archive Research
+comments: true
+---
+This conversation with former CBS and ABC newsman Morton Dean focuses on his recollections of CBS newsmen Mike Wallace and Walter Cronkite, his experiences in Cuba and Vietnam, and his new documentary American Medevac, in which he tells the story of his efforts to reunite Vietnam helicopter pilots with some of the soldiers they rescued.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/573899937%3Fsecret_token%3Ds-wzJK8&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+Links:
+* [American Medevac website](http://www.vietnammedevac.com)
+* [Morton Dean Smithsonian article](https://www.airspacemag.com/history-of-flight/lives-they-saved-vietnam-medevac-180957298)
